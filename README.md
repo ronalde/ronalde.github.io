@@ -38,7 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## Staticman comments
 
-%% https://api.staticman.net/v2/entry/{GITHUB USERNAME}/{GITHUB REPOSITORY}/{BRANCH}/{PROPERTY (optional)}
 
 <form method="POST" action="https://api.staticman.net/v2/entry/ronalde/ronalde.github.io/master/comments">
   <input name="options[redirect]" type="hidden" value="https://ronalde.github.io">
